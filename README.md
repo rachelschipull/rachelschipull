@@ -2,7 +2,7 @@
 
 <p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-Basic professional stats: Full stack web development, MERN stack, JavaScript, HTML, CSS. Strategic thinker. Background in project and business management, communications, and higher education. Obsessed with learning in public. Part of the 100Devs Agency.
+Basic stats: Full stack web development, JavaScript, React, MongoDB, ExpressJS, NodeJS. Strategic thinker. Background in project and business management, communications, and higher education. Obsessed with learning in public. Part of the 100Devs Agency.
   
 ### More about me:
   - 🥬 I love growing and eating all kinds of vegetables.
