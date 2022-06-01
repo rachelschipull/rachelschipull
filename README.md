@@ -1,13 +1,13 @@
 ![RACHEL SCHIPULL (2240 × 900 px) (2240 × 600 px)](https://user-images.githubusercontent.com/102389779/166121947-c1b8ab24-38da-4079-a210-514b2b5aea43.png)
 
-<p align="left"><img width=10%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="left"><img width=15" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 Basic stats: Full stack web development, JavaScript, React, MongoDB, ExpressJS, NodeJS. Strategic thinker. Background in project and business management, communications, and higher education. Obsessed with learning in public and interested in roles in developer relations. Part of the 100Devs Agency.
   
 ### More about me:
   - 🥬 I love growing and eating all kinds of vegetables.
   - 🌐 My last few jobs were climate and sustainability related.
-  - 🤔 I'm learning about open source and open to contributing to projects.
+  - 💻 I'm working with a team of local devs to build NC-related projects: [TriOps GitHub](https://github.com/Triangle-Ops).
   - 🏳️‍🌈 My pronouns are she/her/hers and I love collaborating with queer developers.
 
 ### Connect with me:
