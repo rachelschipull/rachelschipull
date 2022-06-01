@@ -12,6 +12,7 @@ Basic stats: Full stack web development, JavaScript, React, MongoDB, ExpressJS, 
 
 ### Connect with me:
   I blog weekly about tech related topics at [Hashnode](https://schipthatcode.hashnode.dev/).
+  I stream on [Twitch](https://www.twitch.tv/schipthatcode) on Tuesdays and Thursdays at Noon EDT about current projects and SWE interview prep. 
 
 Find me on social here:   
 [![Linkedin: Rachel Schipull](https://img.shields.io/badge/-Schipull-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachelschipull/)](https://www.linkedin.com/in/rachelschipull/)
