@@ -1,6 +1,6 @@
 ![RACHEL SCHIPULL (2240 × 900 px) (2240 × 600 px)](https://user-images.githubusercontent.com/102389779/166121947-c1b8ab24-38da-4079-a210-514b2b5aea43.png)
 
-<p align="left"><img width=15%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="left"><img width=10%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 Basic stats: Full stack web development, JavaScript, React, MongoDB, ExpressJS, NodeJS. Strategic thinker. Background in project and business management, communications, and higher education. Obsessed with learning in public and interested in roles in developer relations. Part of the 100Devs Agency.
   
