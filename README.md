@@ -15,23 +15,11 @@ Basic stats: Full stack web development, JavaScript, React, MongoDB, ExpressJS, 
   I stream on [Twitch](https://www.twitch.tv/schipthatcode) on Tuesdays and Thursdays at Noon EDT about current projects and SWE interview prep. 
 
 Find me on social here:   
-[![Linkedin: Rachel Schipull](https://img.shields.io/badge/-Schipull-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rachelschipull/)](https://www.linkedin.com/in/rachelschipull/)
-![Twitter Follow](https://img.shields.io/twitter/follow/schipthatcode?style=social)
-![Twitch Status](https://img.shields.io/twitch/status/schipthatcode?style=social)
 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/rachelschipull/" target="blank"><img src="https://img.shields.io/badge/-Schipull-blue?style=flat-square&logo=Linkedin&logoColor=white&style=plastic" alt="Schipull" /></a>
+  <a href="https://twitter.com/schipthatcode" target="blank"><img src="https://img.shields.io/twitter/follow/schipthatcode?logo=twitter&style=plastic" alt="SchipThatCode" /></a> 
+  <a href="https://twitch.tv/schipthatcode" target="blank"><img src="https://img.shields.io/twitch/status/schipthatcode?logo=Twitch&style=plastic" alt="SchipThatCode" /></a>
+</p>
 
-<!--
-**rachelschipull/rachelschipull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
