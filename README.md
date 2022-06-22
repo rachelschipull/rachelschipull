@@ -16,7 +16,7 @@ Basic stats: Full stack web development, JavaScript, React, MongoDB, ExpressJS, 
 
 Find me on social here:   
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.linkedin.com/in/rachelschipull/" target="blank"><img src="https://img.shields.io/badge/-Schipull-blue?style=flat-square&logo=Linkedin&logoColor=white&style=plastic" alt="Schipull" /></a>
   <a href="https://twitter.com/schipthatcode" target="blank"><img src="https://img.shields.io/twitter/follow/schipthatcode?logo=twitter&style=plastic" alt="SchipThatCode" /></a> 
   <a href="https://twitch.tv/schipthatcode" target="blank"><img src="https://img.shields.io/twitch/status/schipthatcode?logo=Twitch&style=plastic" alt="SchipThatCode" /></a>
