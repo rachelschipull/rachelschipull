@@ -7,7 +7,7 @@ Basic stats: Full stack web development, JavaScript, React, MongoDB, ExpressJS, 
 ### More about me:
   - 🥬 I love growing and eating all kinds of vegetables.
   - 🌐 My last few jobs were climate and sustainability related.
-  - 💻 I'm working with a team of local devs to build NC-related projects: [TriOps GitHub](https://github.com/Triangle-Ops).
+  - 💻 I'm working with a team of local devs to build NC-related projects: [Triangle Ops GitHub](https://github.com/Triangle-Ops).
   - 🏳️‍🌈 My pronouns are she/her/hers and I love collaborating with queer developers.
 
 ### Connect with me:
