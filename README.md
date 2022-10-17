@@ -11,8 +11,8 @@ Basic stats: Full stack web development, JavaScript, React, MongoDB, ExpressJS, 
   - 🏳️‍🌈 My pronouns are she/her/hers and I love collaborating with queer developers.
 
 ### Connect with me:
-  I blog weekly about tech related topics at [Hashnode](https://schipthatcode.hashnode.dev/).
-  I stream on [Twitch](https://www.twitch.tv/schipthatcode) on Tuesdays and Thursdays at Noon EDT about current projects and SWE interview prep. 
+  I blog often about tech related topics at [Hashnode](https://schipthatcode.hashnode.dev/).
+  I stream on [Twitch](https://www.twitch.tv/schipthatcode) on Tuesdays and Thursdays at 2pm EDT about current projects and SWE interview prep. 
 
 Find me on social here:   
 
