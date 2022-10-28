@@ -2,7 +2,8 @@
 
 <p align="left"><img width="150" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-Basic stats: Full stack web development, JavaScript, React, MongoDB, ExpressJS, NodeJS. Strategic thinker. Background in project and business management, communications, and higher education. Obsessed with learning in public and interested in frontend, backend or developer relations. Part of the 100Devs Agency.
+Skills rundown: JavaScript, React, MongoDB, Express.JS, Node.JS. Jest. Strategic thinker. 
+Background in project and business management, sustainability, communications, and higher education. Obsessed with learning in public and interested in frontend, backend or developer relations. Part of the 100Devs Agency.
   
 ### More about me:
   - 🥬 I love growing and eating all kinds of vegetables.
