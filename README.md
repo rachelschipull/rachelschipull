@@ -4,7 +4,7 @@
 
 Skills rundown: JavaScript, React, MongoDB, Express.JS, Node.JS. Jest. Strategic thinker. <br>
 Background in project and business management, sustainability, communications, and higher education. <br>
-Obsessed with learning in public and interested in frontend, backend or developer relations. Part of the 100Devs Agency.
+Currently an enthusiastic 🥑 at [Cyclic](https://www.cyclic.sh/). Part of the 100Devs Agency.
   
 ### More about me:
   - 🥬 I love growing and eating all kinds of vegetables.
@@ -14,7 +14,7 @@ Obsessed with learning in public and interested in frontend, backend or develope
 
 ### Connect with me:
   I blog often about tech related topics at [Hashnode](https://schipthatcode.hashnode.dev/).
-  I stream on [Twitch](https://www.twitch.tv/schipthatcode) on Tuesdays and Thursdays at 2pm EDT about current projects and SWE interview prep. 
+  I stream on [Twitch](https://www.twitch.tv/schipthatcode) on Tuesdays and Thursday about current projects. 🥔
 
 Find me on social here:   
 
