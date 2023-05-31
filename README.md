@@ -4,12 +4,13 @@
 
 Skills rundown: JavaScript, React, MongoDB, Express.JS, Node.JS. Jest. Strategic thinker. <br>
 Background in project and business management, sustainability, communications, and higher education. <br>
-Currently an enthusiastic 🥑 at [Cyclic](https://www.cyclic.sh/). Part of the 100Devs Agency.
+Most recently an enthusiastic 🥑 at [Cyclic](https://www.cyclic.sh/). <br>
+Helping small businesses success at [Schipull Tech Solutions](https://rachelschipull.com) Part of the 100Devs Agency.
   
 ### More about me:
   - 🥬 I love growing and eating all kinds of vegetables.
-  - 🌐 My last few jobs were climate and sustainability related.
-  - 💻 I'm working with a team of local devs to build NC-related projects: [Triangle Ops GitHub](https://github.com/Triangle-Ops).
+  - 🌐 I've been a full-time sustainability manager and built corporate sustainability engagement programs for Fortune 500 companies.
+  - 💻 My current passion project is building a social media app with the Spotify API called Socialfy.
   - 🏳️‍🌈 My pronouns are she/her/hers and I love collaborating with queer developers.
 
 ### Connect with me:
