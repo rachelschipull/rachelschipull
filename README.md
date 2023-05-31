@@ -5,7 +5,7 @@
 Skills rundown: JavaScript, React, MongoDB, Express.JS, Node.JS. Jest. Strategic thinker. <br>
 Background in project and business management, sustainability, communications, and higher education. <br>
 Most recently an enthusiastic 🥑 at [Cyclic](https://www.cyclic.sh/). <br>
-Helping small businesses success at [Schipull Tech Solutions](https://rachelschipull.com) Part of the 100Devs Agency.
+Helping small businesses success at [Schipull Tech Solutions](https://rachelschipull.com). Part of the 100Devs Agency.
   
 ### More about me:
   - 🥬 I love growing and eating all kinds of vegetables.
