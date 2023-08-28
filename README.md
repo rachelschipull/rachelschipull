@@ -2,9 +2,9 @@
 
 <p align="left"><img width="150" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-Skills rundown: JavaScript, React, MongoDB, Express.JS, Node.JS. Jest. SQL. Strategic thinker. <br>
-Background in project and business management, sustainability, communications, and higher education. <br>
-Most recently an enthusiastic 🥑 at [Cyclic](https://www.cyclic.sh/). <br>
+Skills rundown: JavaScript, React, TypeScript, ExpressJS, NodeJS. Jest. MongoDB. SQL. <br>
+Background in project and business management, sustainability, communications, community building and higher education. <br>
+Most recently an enthusiastic developer advocate 🥑 at [Cyclic](https://www.cyclic.sh/). <br>
 Helping small businesses success at [Schipull Tech Solutions](https://rachelschipull.com). Part of the 100Devs Agency.
   
 ### More about me:
