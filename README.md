@@ -2,9 +2,9 @@
 
 <p align="left"><img width="150" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-Skills rundown: JavaScript, React, TypeScript, ExpressJS, NodeJS. Jest. MongoDB. SQL. <br>
+Skills rundown: JavaScript, React, TypeScript, ExpressJS, NodeJS. Jest. MongoDB. Firebase. SQL. <br>
 Background in project and business management, sustainability, communications, community building and higher education. <br>
-Most recently an enthusiastic developer advocate 🥑 at [Cyclic](https://www.cyclic.sh/). <br>
+Currently working as a Software Engineer with [Rugged Software](https://www.ruggedsoftware.dev/). <br>
 Helping small businesses success at [Schipull Tech Solutions](https://rachelschipull.com). Part of the 100Devs Agency.
   
 ### More about me:
@@ -14,8 +14,8 @@ Helping small businesses success at [Schipull Tech Solutions](https://rachelschi
   - 🏳️‍🌈 My pronouns are she/her/hers and I love collaborating with queer developers.
 
 ### Connect with me:
-  I blog often about tech related topics at [Hashnode](https://schipthatcode.hashnode.dev/).
   I stream on [Twitch](https://www.twitch.tv/schipthatcode) on Tuesdays and Thursday about current projects. 🥔
+  I blog often about tech related topics at [Hashnode](https://schipthatcode.hashnode.dev/).
 
 Find me on social here:   
 
