@@ -4,8 +4,8 @@
 
 Skills rundown: JavaScript, React, TypeScript, ExpressJS, NodeJS. Jest. MongoDB. Firebase. SQL. <br>
 Background in project and business management, sustainability, communications, community building and higher education. <br>
-Currently working as a Software Engineer with [Rugged Software](https://www.ruggedsoftware.dev/). <br>
-Helping small businesses success at [Schipull Tech Solutions](https://rachelschipull.com). Part of the 100Devs Agency.
+Most recently promoting women and nonbinary product managers at Women In Product and working as a Software Engineer with [Rugged Software](https://www.ruggedsoftware.dev/). <br>
+Helping small businesses succeed at [Schipull Tech Solutions](https://rachelschipull.com). 100Devs Alumna.
   
 ### More about me:
   - 🥬 I love growing and eating all kinds of vegetables.
@@ -14,8 +14,8 @@ Helping small businesses success at [Schipull Tech Solutions](https://rachelschi
   - 🏳️‍🌈 My pronouns are she/her/hers and I love collaborating with queer developers.
 
 ### Connect with me:
-  I stream on [Twitch](https://www.twitch.tv/schipthatcode) on Tuesdays and Thursday about current projects. 🥔
-  I blog often about tech related topics at [Hashnode](https://schipthatcode.hashnode.dev/).
+  I stream on [Twitch](https://www.twitch.tv/schipthatcode) about current projects. 🥔
+  I blog about tech related topics at [Hashnode](https://schipthatcode.hashnode.dev/).
 
 Find me on social here:   
 
